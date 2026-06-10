@@ -2,7 +2,7 @@
 <img width="1200" height="475" alt="GHBanner" " />
 </div>
 
-# AI Studio Restaurant Order Management System
+# Restaurant Order Management System
 
 A Vite + React restaurant order management app with waiter terminal, kitchen display, cashier billing, and settlement workflows.
 
